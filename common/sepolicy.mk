@@ -4,10 +4,10 @@
 #
 
 BOARD_PLAT_PUBLIC_SEPOLICY_DIR += \
-    device/rr/sepolicy/common/public
+    device/renouveau/sepolicy/common/public
 
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
-    device/rr/sepolicy/common/private
+    device/renouveau/sepolicy/common/private
 
 BOARD_SEPOLICY_DIRS += \
-    device/rr/sepolicy/common/vendor
+    device/renouveau/sepolicy/common/vendor
